@@ -7,7 +7,7 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/rihankumar/txt_leech",
+    "repository": "https://github.com/navedmohammad/StubbornCourse-extract-learning-txt-uploader",
     "success_url": "https://t.me/paidcoursefreemeha",
     "stack": "container",
     "env": {
